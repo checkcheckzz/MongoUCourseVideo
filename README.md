@@ -139,6 +139,31 @@ Copyright of these videos belong to MongoDB, Inc.
 
 ####[[]](#toc) <a name='w5'>WEEK 5-AGGREGATION FRAMEWORK</a>
 
+* [Introduction to Week 5](https://www.youtube.com/watch?v=BDxT-VZdYqc)
+* [Simple Aggregation Example](https://www.youtube.com/watch?v=DQBXCsjeO5c)
+* [The Aggregation Pipeline](https://www.youtube.com/watch?v=AuO8CEkTG6Y)
+* [Simple Example Expanded](https://www.youtube.com/watch?v=3lEpnMcfpCs)
+* [Compound Grouping](https://www.youtube.com/watch?v=qTbtax_cKcc)
+* [Using a document for _id](https://www.youtube.com/watch?v=zoN4cj_XQzY)
+* [Aggregation Expressions](https://www.youtube.com/watch?v=L4G14MTfTgQ)
+* [Using $sum](https://www.youtube.com/watch?v=93MSz3uDC1A)
+* [Using $avg](https://www.youtube.com/watch?v=baIDZ-M5j7w)
+* [Using $addToSet](https://www.youtube.com/watch?v=YzURaZnKI9s)
+* [Using $push](https://www.youtube.com/watch?v=LQcBM-g0ACY)
+* [Using $max and $min](https://www.youtube.com/watch?v=BYoNX4trjOQ)
+* [Double $group stages](https://www.youtube.com/watch?v=EIWF9Oxeb8M)
+* [Using $project](https://www.youtube.com/watch?v=TbQ2PI5Fib0)
+* [Using $match](https://www.youtube.com/watch?v=7RtHG90Hrbw)
+* [Using $sort](https://www.youtube.com/watch?v=HUEtV7omSb8)
+* [Using $limit and $skip](https://www.youtube.com/watch?v=o5hzYKXUyrU)
+* [Revisiting $first and $last](https://www.youtube.com/watch?v=JOdAnxVAMwc)
+* [Using $unwind](https://www.youtube.com/watch?v=E4aYOQPeQvI)
+* [$unwind example](https://www.youtube.com/watch?v=U_4Enh2TTp4)
+* [Double $unwind](https://www.youtube.com/watch?v=YXGL27217B8)
+* [Mapping between SQL and Aggregation](https://www.youtube.com/watch?v=auL2R0XKlyM)
+* [Some Common SQL examples](https://www.youtube.com/watch?v=ep2gLSR6C0U)
+* [Limitations of the Aggregation Framwork](https://www.youtube.com/watch?v=U_gRSxEq3c0)
+
 ####[[]](#toc) <a name='w6'>WEEK 6-APPLICATION ENGINEERING</a>
 
 ####[[]](#toc) <a name='w7'>WEEK 7-CASE STUDIES</a>
