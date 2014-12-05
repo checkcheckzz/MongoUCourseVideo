@@ -110,6 +110,33 @@ Copyright of these videos belong to MongoDB, Inc.
 
 ####[[]](#toc) <a name='w4'>WEEK 4-PERFORMANCE</a>
 
+* [Introduction to Week 4](https://www.youtube.com/watch?v=8qBXI8ggV88)
+* [Indexes](https://www.youtube.com/watch?v=kkIAqyqYOCc)
+* [Creating Indexes](https://www.youtube.com/watch?v=tRqenx45UAM)
+* [Discovering Indexes](https://www.youtube.com/watch?v=hH7kYu_-FXg)
+* [Multikey Indexes](https://www.youtube.com/watch?v=8DqRASZGu9k)
+* [Multikey Continued](https://www.youtube.com/watch?v=mPSGG2p33RQ)
+* [Index Creation Option, Unique](https://www.youtube.com/watch?v=99-5N213g0w)
+* [Index Creation, Removing Dups](https://www.youtube.com/watch?v=s6KZsAhSUO4)
+* [Index Creation, Sparse](https://www.youtube.com/watch?v=Gi4uZXLh0Ks)
+* [Index Creation, Background](https://www.youtube.com/watch?v=28wCvoXmY7A)
+* [Using Explain](https://www.youtube.com/watch?v=r5YeICVzDjQ)
+* [When is an Index Used?](https://www.youtube.com/watch?v=Lwms58Y_3Jc)
+* [How Large is Your Index?](https://www.youtube.com/watch?v=oywrqWNY46s)
+* [Index Cardinality](https://www.youtube.com/watch?v=xiujksUfzUA)
+* [Index Selectivity](https://www.youtube.com/watch?v=On8HHR1agsI)
+* [Hinting an Index](https://www.youtube.com/watch?v=UWpBNV378pE)
+* [Hinting in Java](https://www.youtube.com/watch?v=JE0_Xtz-n0g)
+* [Efficiency of Index Use](https://www.youtube.com/watch?v=1sADN-NKwhY)
+* [Geospatial Indexes](https://www.youtube.com/watch?v=UKUDYqNVL6I)
+* [Geospatial Spherical](https://www.youtube.com/watch?v=pULU4DVsUWQ)
+* [Text Searches in MongoDB](https://www.youtube.com/watch?v=l_2kwrIlZ_g)
+* [Logging Slow Queries](https://www.youtube.com/watch?v=aWuvC-O7Qkk)
+* [Profiling](https://www.youtube.com/watch?v=pN1Yhrup9-I)
+* [Mongotop](https://www.youtube.com/watch?v=D9YLXgy7NYo)
+* [Mongostat](https://www.youtube.com/watch?v=eLWQO_AJmrI)
+* [Sharding Overview](https://www.youtube.com/watch?v=BDxT-VZdYqc)
+
 ####[[]](#toc) <a name='w5'>WEEK 5-AGGREGATION FRAMEWORK</a>
 
 ####[[]](#toc) <a name='w6'>WEEK 6-APPLICATION ENGINEERING</a>
