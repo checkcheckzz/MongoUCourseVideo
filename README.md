@@ -86,7 +86,27 @@ Copyright of these videos belong to MongoDB, Inc.
 
 ####[[]](#toc) <a name='w3'>WEEK 3-SCHEMA DESIGN</a>
 
-
+* [Introduction to Week 3](https://www.youtube.com/watch?v=9urnY4OcuNM)
+* [MongoDB Schema Design](https://www.youtube.com/watch?v=itnfWjMnQ4A)
+* [Relational Normalization](https://www.youtube.com/watch?v=GX__f2s4hd8)
+* [Mongo Design for Blog](https://www.youtube.com/watch?v=PRylEHH5t84)
+* [Alternative Schema for Blog](https://www.youtube.com/watch?v=ZvqNWVWB2-o)
+* [Living Without Constraints](https://www.youtube.com/watch?v=YFRMkDPaams)
+* [Living Without Transactions](https://www.youtube.com/watch?v=FfRr3qjRfww)
+* [One to One Relations](https://www.youtube.com/watch?v=cCsfon0vUlQ)
+* [One to Many Relations](https://www.youtube.com/watch?v=EIaP1KbVkUc)
+* [Many to Many Relations](https://www.youtube.com/watch?v=fEYYjZ7zEHc)
+* [Multikeys](https://www.youtube.com/watch?v=KtIY4Q1tUao)
+* [Benefits of Embedding](https://www.youtube.com/watch?v=XIN0Dqht08Q)
+* [Trees](https://www.youtube.com/watch?v=lIjXyQklGWY)
+* [When to Denormalize](https://www.youtube.com/watch?v=jDZ-HFoJ0vg)
+* [Handling Blobs](https://www.youtube.com/watch?v=Q_uyOT4Kbk4)
+* [Learn more about GridFS](https://www.youtube.com/watch?v=oNRPiyKu6Hc)
+* [Introduction to Week 3](https://www.youtube.com/watch?v=9urnY4OcuNM)
+* [What is an ODM?](https://www.youtube.com/watch?v=pfp7sCEjWJY)
+* [Field mappings, indexes and constraints in Morphia](https://www.youtube.com/watch?v=DB67UpBitM0)
+* [CRUD Operations in Morphia](https://www.youtube.com/watch?v=Ts96-cdUeko)
+* [Sidebar: Importing from a Twitter Feed](https://www.youtube.com/watch?v=wlNPns5hc6M)
 
 ####[[]](#toc) <a name='w4'>WEEK 4-PERFORMANCE</a>
 
