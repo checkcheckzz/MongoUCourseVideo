@@ -166,6 +166,24 @@ Copyright of these videos belong to MongoDB, Inc.
 
 ####[[]](#toc) <a name='w6'>WEEK 6-APPLICATION ENGINEERING</a>
 
+* [Introduction to Week 6](https://www.youtube.com/watch?v=3zcbhNHebAc)
+* [Introduction to Replication](https://www.youtube.com/watch?v=f1WTYGORU3w) 
+* [Replica Set Elections](https://www.youtube.com/watch?v=WFXSVHO78bQ) 
+* [Write Consistency](https://www.youtube.com/watch?v=Oqf_Eza-s1M) 
+* [Creating a Replica Set](https://www.youtube.com/watch?v=flCFVFBRsKI) 
+* [Replica Set Internals](https://www.youtube.com/watch?v=lx0Kj4n4EWM) 
+* [Failover and Rollback](https://www.youtube.com/watch?v=IW1oW_Adlt0) 
+* [Connecting to a Replica Set from the Java Driver](https://www.youtube.com/watch?v=GL4kika730k) 
+* [Bad Things Happen to Good Nodes](https://www.youtube.com/watch?v=0ANiUSyhG9k) 
+* [Write Concern](https://www.youtube.com/watch?v=49BPAY1Yb5w)
+* [Network Errors](https://www.youtube.com/watch?v=BycNYXFpqhM)
+* [Read Preferences](https://www.youtube.com/watch?v=lA9UIEtvfWo) 
+* [Introduction to Sharding](https://www.youtube.com/watch?v=_GfDqa1qRl0) 
+* [Building a Sharded Environment](https://www.youtube.com/watch?v=aaYc2W4keF4) 
+* [Implications of Sharding](https://www.youtube.com/watch?v=ig278F60gRA) 
+* [Sharding + Replication](https://www.youtube.com/watch?v=-rtYrLb1bgY) 
+* [Choosing a Shard Key](https://www.youtube.com/watch?v=8q2GB3QSBSI) 
+
 ####[[]](#toc) <a name='w7'>WEEK 7-CASE STUDIES</a>
 
 * [Introduction to Week 7](https://www.youtube.com/watch?v=adRyiudsgv0)
