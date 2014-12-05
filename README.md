@@ -168,3 +168,6 @@ Copyright of these videos belong to MongoDB, Inc.
 
 ####[[]](#toc) <a name='w7'>WEEK 7-CASE STUDIES</a>
 
+* [Introduction to Week 7](https://www.youtube.com/watch?v=adRyiudsgv0)
+* [Interview with Jon Hoffman, foursquare](https://www.youtube.com/watch?v=GBauy0o-Wzs)
+* [Interview with Ryan Bubinski, Codecademy](https://www.youtube.com/watch?v=RkPmVQNesZA)
