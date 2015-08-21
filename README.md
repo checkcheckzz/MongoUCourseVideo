@@ -2,6 +2,7 @@
 
 Copyright of these videos belong to MongoDB, Inc.
 
+##M101J: MongoDB for Java Developers
 
 ### <a name='toc'>Syllabus</a>
 
@@ -189,3 +190,67 @@ Copyright of these videos belong to MongoDB, Inc.
 * [Introduction to Week 7](https://www.youtube.com/watch?v=adRyiudsgv0)
 * [Interview with Jon Hoffman, foursquare](https://www.youtube.com/watch?v=GBauy0o-Wzs)
 * [Interview with Ryan Bubinski, Codecademy](https://www.youtube.com/watch?v=RkPmVQNesZA)
+
+
+##M102: MongoDB for DBAs
+
+### <a name='toc'>Syllabus</a>
+
+- [ ] [WEEK 1-INTRODUCTION](#w11)
+- [ ] [WEEK 2-CRUD and Administrative Commands](#w12)
+- [ ] [WEEK 3-Performance](#w13)
+- [ ] [WEEK 4-Replication](#w14)
+- [ ] [WEEK 5-Replication Part 2](#w15)
+- [ ] [WEEK 6-Scalability](#w16)
+- [ ] [WEEK 7-Backup and Recovery](#w17)
+
+####[[]](#toc) <a name='w11'>WEEK 1-INTRODUCTION</a>
+
+* [Welcome to M102](https://youtu.be/l5_MqHaECLU)
+* [Introduction to the Course](https://youtu.be/_E6JcwWce-w)
+* [Introduction to Week 1](https://youtu.be/nFB986zsXd0)
+* [Concepts](https://youtu.be/YHKVBUENpvQ)
+* [Scaling](https://youtu.be/TZVZTf_eeaM)
+* [SQL and Complex Transactions](https://youtu.be/CYdjDKwg0Eg)
+* [Documents Overview](https://youtu.be/f9csC-b9ULc)
+* [Instaling MongoDB(mac)](https://youtu.be/_WJ8m5QHvwc)
+* [Instaling MongoDB(windows)](https://youtu.be/sBdaRlgb4N8)
+* [JSON Types](https://youtu.be/gKOcqNHmc4Q)
+* [JSON Syntax](https://youtu.be/a3jWXcmjrWM)
+* [JSON Syntax 2](https://youtu.be/dxd1BnBqQk8)
+* [Binary JSON](https://youtu.be/BfWnSxNQpYs) 
+* [BSON and applications](https://youtu.be/YsfwTNwixME)
+* [Dynamic Schema](https://youtu.be/lxEk0aBEPl8)
+* [What is the MongoDB shell](https://youtu.be/W4o8HJyL7_8)
+* [Mongoimport](https://youtu.be/ih2AYAfmQ9g)
+* [Cursors Intruduction](https://youtu.be/XzNqJpImCP4)
+* [Query Language:Basic Concepts](https://youtu.be/CJLLg0ibcnI)
+* [Query Languages:Projection](https://youtu.be/5-_ztAQ55f4)
+* [Query Languages:Advantages of a Dynamic Schema](https://youtu.be/8zlMXX70KEw) 
+* [Shell:Queries](https://youtu.be/Mjcd5PAdG-s)
+* [Sorting](https://youtu.be/Ezx1lXaY7jE)
+* [Query Languages:Cursors](https://youtu.be/DRs4_hBpPlI)
+* [Deep Dive into the Course Going Forward](https://youtu.be/w2u-AKZEh_Q)  
+
+####[[]](#toc) <a name='w12'>WEEK 2-CRUD and Administrative Commands</a>
+
+####[[]](#toc) <a name='w13'>WEEK 3-Performance</a>
+
+####[[]](#toc) <a name='w14'>WEEK 4-Replication</a>
+
+####[[]](#toc) <a name='w15'>WEEK 5-Replication Part 2</a>
+
+####[[]](#toc) <a name='w16'>WEEK 6-Scalability</a>
+
+####[[]](#toc) <a name='w17'>WEEK 7-Backup and Recovery</a>
+
+
+
+
+
+
+
+
+
+
+
