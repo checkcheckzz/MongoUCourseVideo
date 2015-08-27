@@ -234,6 +234,25 @@ Copyright of these videos belong to MongoDB, Inc.
 
 ####[[]](#toc) <a name='w12'>WEEK 2-CRUD and Administrative Commands</a>
 
+* [Welcome to Week 2](https://youtu.be/J_LLMqmPVxA)
+* [Introduction to Seek 2](https://youtu.be/7aONHmqz0iI)
+* [Insertion](https://youtu.be/Z_LvS-n85aI)
+* [Update](https://youtu.be/4GVMjVuGPq8)
+* [save() Command](https://youtu.be/fWLiwAC-Q20)
+* [Partial Updates & Document Limits](https://youtu.be/pyG6hvieAjc)
+* [Removing Documents](https://youtu.be/0sBeHFEzwH4)
+* [Multi Update](https://youtu.be/HuXgTJVCNJ0)
+* [Upsert](https://youtu.be/8nlZEd_Jliw)
+* [Wire Protocol](https://youtu.be/LzjYGev1sGg)
+* [Bulk() Operations and Methods](https://youtu.be/4NCDH8KRmtA)
+* [Common Commands](https://youtu.be/EPIuVGNXwO8)
+* [db.runCommand()](https://youtu.be/88IlYfK3i4I)
+* [db.isMaster()](https://youtu.be/qzq4ZIMByrw)
+* [db.serverStatus](https://youtu.be/TNrWUptluMg)
+* [db.currrentOp() & db.killOp()](https://youtu.be/lWxTODnZj5A)
+* [collection.stats() & collection.drop()](https://youtu.be/EJk9joNfnoA)
+* [Review of Commands](https://youtu.be/Q8v1J7wovl4)
+
 ####[[]](#toc) <a name='w13'>WEEK 3-Performance</a>
 
 ####[[]](#toc) <a name='w14'>WEEK 4-Replication</a>
