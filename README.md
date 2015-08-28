@@ -255,8 +255,45 @@ Copyright of these videos belong to MongoDB, Inc.
 
 ####[[]](#toc) <a name='w13'>WEEK 3-Performance</a>
 
+* [Welcome to Week 3](https://youtu.be/yeb0nSDiozQ)
+* [Storage Engine:Introduction](https://youtu.be/yV8qgeXvAyI)
+* [Storage Engine: MMAPv1](https://youtu.be/PZCdLVB4lw4)
+* [MMAPv1: Ducoments and Data Files](https://youtu.be/9nYFnlM4vYw)
+* [Storage Engine: WiredTiger](https://youtu.be/O9TGqK3FBX8)
+* [createIndex(),getIndexes()& dropIndex()](https://youtu.be/JvXfCHPYKzw)
+* [Collection Scans](https://youtu.be/qB6435EGS6w)
+* [Index Notes](https://youtu.be/OyXFYhLXTGk)
+* [Unique Indexes](https://youtu.be/WksXV0HrJoQ) 
+* [Sparse Indexes](https://youtu.be/0Hl3dBQQMAk) 
+* [TTL Indexes](https://youtu.be/hu0gsu5O0Rs)
+* [Geospatial Indexes](https://youtu.be/S5u9gbhy8tk)
+* [Text Indexes](https://youtu.be/n84CtW4lCkM)
+* [Backgrund Index Creation](https://youtu.be/rI2Hnqp8BN4)
+* [Explain Plans](https://youtu.be/rRsYWCO3ndY)
+* [Covered Queries](https://youtu.be/npFBnPAkDUk)
+* [Read & Write Recap](https://youtu.be/TO1pY0m1sm0)
+* [currentOp() & killOp() Revisited](https://youtu.be/i7XEKAtRS_M) 
+* [The Profiler](https://youtu.be/MzLmI8FNB94)
+* [mongostat and mongotop](https://youtu.be/fEgl1DT_lDA)
+
 ####[[]](#toc) <a name='w14'>WEEK 4-Replication</a>
 
+* [Welcome to Week 4](https://youtu.be/oK8Cb7XsAWU)
+* [Replication Overview](https://youtu.be/eNFWxRFIbcI)
+* [Asynchrnous Replication](https://youtu.be/3p30vjb-Rx8)
+* [Statement-based vs. Binary Replication](https://youtu.be/yutpUgJMkk4) 
+* [Replication Concepts](https://youtu.be/AYBOd-tpdKo) 
+* [Automatic Failover](https://youtu.be/VsnI8uCTG60) 
+* [Recovery](https://youtu.be/TGsnu9RBjzA) 
+* [Starting Replica Sets](https://youtu.be/RpR5VCIQU2Y)  
+* [Initiating a Replica](https://youtu.be/EaGhuXPZZbk)  
+* [Replica Set Status](https://youtu.be/QspOQbOShSY)
+* [Replica Set Commands](https://youtu.be/e7Mhy-LAfLw) 
+* [Reading & Writing](https://youtu.be/rUhe8CJCtG8) 
+* [Failover](https://youtu.be/MGoHhWbMDaU)  
+* [Read Preference](https://youtu.be/I62q4cyeSyc) 
+* [Read Preference Options](https://youtu.be/jCEZvexlpj4)
+ 
 ####[[]](#toc) <a name='w15'>WEEK 5-Replication Part 2</a>
 
 ####[[]](#toc) <a name='w16'>WEEK 6-Scalability</a>
