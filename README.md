@@ -296,17 +296,55 @@ Copyright of these videos belong to MongoDB, Inc.
  
 ####[[]](#toc) <a name='w15'>WEEK 5-Replication Part 2</a>
 
+* [Week 5 Introduction](https://youtu.be/cs-2q4Gbsbk)
+* [Reconfiguring a Replica Set](https://youtu.be/kkqX5Hwah6Q) 
+* [Arbiters](https://youtu.be/4W0GO2CAu2w)  
+* [Priority Options](https://youtu.be/mSeUC5dRd44)  
+* [Hidden Option & Slave Delay](https://youtu.be/X1hCBT2UTuo)  
+* [Voting Options](https://youtu.be/w14Re7vCx40)
+* [Applied Reconfiguration](https://youtu.be/CvaV2QqV-AM)
+* [Write Concern Principles](https://youtu.be/73Jl2woKhNo) 
+* [Examing the 'w' Parameter](https://youtu.be/K3N6psPZCD0)  
+* [Write Concern Use Cases & Patterns](https://youtu.be/sSkFhx1jKSs)  
+* [Reexaming the Page View Counter Pattern](https://youtu.be/MjrNWE38QnM)  
+* [wtimeout & Capacity Planning](https://youtu.be/K5Q1t1oV0a0)
+* [Replica Sets in a Single Datacenter](https://youtu.be/lSMLN6QqLyQ)
+* [Replica Sets in Multiple Datacenters](https://youtu.be/YEeudsS3lqg)
+* [Replica Sets and Storage Engine Considerations](https://youtu.be/e3SeZRdrAsE)
+
 ####[[]](#toc) <a name='w16'>WEEK 6-Scalability</a>
+
+* [Introduction to Week6](https://youtu.be/gaVzKkKsIxI)
+* [Sharding & Data Distribution](https://youtu.be/xvWzS9j7IIY)
+* [Replication with Sharding](https://youtu.be/K7nWCuA5wF4)
+* [Chunks & Operations](https://youtu.be/v7Gibss9JAk)
+* [Sharding Processes](https://youtu.be/XMnxjcdiMJs)
+* [Cluster Topology](https://youtu.be/ZyDNnN8-4Ak)
+* [Running on localhost](https://youtu.be/lQ-tf4XQlQ8) 
+* [The Config Database](https://youtu.be/WVXmIVUGBm4)  
+* [Adding the Initial Shards](https://youtu.be/-Ijt60KkWpc)  
+* [Enable Sharding for a Collection](https://youtu.be/G2GYYDTfq-M)
+* [Working with a Sharded Cluster](https://youtu.be/DSAtoCcFdWI)
+* [Cardinality & Monotonic Shard Keys](https://youtu.be/FANoi-xQJp4)
+* [Shard Key Selection Example](https://youtu.be/ujlNVJK5dMc)
+* [Process and Machine Layout](https://youtu.be/j43kGempShk)
+* [Bulk Inserts and Presplitting](https://youtu.be/rYGOF-MjRQU)
+* [Further Tips and Best Practices](https://youtu.be/9QXa9Uz8bjc)
 
 ####[[]](#toc) <a name='w17'>WEEK 7-Backup and Recovery</a>
 
-
-
-
-
-
-
-
-
-
-
+* [Introduction to Week7](https://youtu.be/1n0IDMAWR0Y)
+* [Overview of Security](https://youtu.be/TOtt-8SRlA4)
+* [Security continued:Authentication and Authorization](https://youtu.be/BAvTSOJGynA)
+* [SSL and Keyfiles](https://youtu.be/Sj4737nkV08)
+* [Security and Client](https://youtu.be/4eWnyAGxJ68) 
+* [Intra-cluster Security](https://youtu.be/SI-P8wZ8hM0)
+* [Overview of Backing Up](https://youtu.be/hl58MKd2jCs)  
+* [Mongodump](https://youtu.be/tbQE2ZPPbHA)
+* [Filesystem  Snapshotting](https://youtu.be/6A_jy8_YRIg)
+* [Backing Up a Sharded Cluster](https://youtu.be/DAWoj5Hd2Mo)
+* [Backup Strategies](https://youtu.be/7x9UPaq-i78)
+* [Additional Features of MongoDB](https://youtu.be/Ih8PVVwvyuU)
+* [GridFS](https://youtu.be/cb0odeI0WOg)
+* [Hardware Tips](https://youtu.be/19VZJ9H3LmQ)
+* [Additional Resources](https://youtu.be/BYegVYF7lHY)
