@@ -1,8 +1,8 @@
-###Copyrights
+### Copyrights
 
 Copyright of these videos belong to MongoDB, Inc.
 
-##M101J: MongoDB for Java Developers
+## M101J: MongoDB for Java Developers
 
 ### <a name='toc'>Syllabus</a>
 
@@ -15,7 +15,7 @@ Copyright of these videos belong to MongoDB, Inc.
 - [ ] [WEEK 7-CASE STUDIES](#w7)
 
 
-####[[]](#toc) <a name='w1'>WEEK 1-INTRODUCTION</a>
+#### [[]](#toc) <a name='w1'>WEEK 1-INTRODUCTION</a>
 
 * [Welcome to M101J](https://www.youtube.com/watch?v=FN10crzDOjk)
 * [What is MongoDB?](https://www.youtube.com/watch?v=q2iLKZ1LgjI)
@@ -43,7 +43,7 @@ Copyright of these videos belong to MongoDB, Inc.
 * [Blog in Documents](https://www.youtube.com/watch?v=ZjwCzyqKVdY)
 * [Introduction to Schema Design](https://www.youtube.com/watch?v=6XE3wZCPiZ8)
 
-####[[]](#toc) <a name='w2'>WEEK 2-CRUD</a>
+#### [[]](#toc) <a name='w2'>WEEK 2-CRUD</a>
 
 * [Introduction to Week 2](https://www.youtube.com/watch?v=C-3vZ8nB7fQ)
 * [CRUD and the Mongo Shell](https://www.youtube.com/watch?v=C7LinMC2o5o)
@@ -85,7 +85,7 @@ Copyright of these videos belong to MongoDB, Inc.
 * [Blog, Session Management](https://www.youtube.com/watch?v=JeyNWgk6FJc)
 * [Blog, User Interface](https://www.youtube.com/watch?v=cKLfVZDs9FU)
 
-####[[]](#toc) <a name='w3'>WEEK 3-SCHEMA DESIGN</a>
+#### [[]](#toc) <a name='w3'>WEEK 3-SCHEMA DESIGN</a>
 
 * [Introduction to Week 3](https://www.youtube.com/watch?v=9urnY4OcuNM)
 * [MongoDB Schema Design](https://www.youtube.com/watch?v=itnfWjMnQ4A)
@@ -109,7 +109,7 @@ Copyright of these videos belong to MongoDB, Inc.
 * [CRUD Operations in Morphia](https://www.youtube.com/watch?v=Ts96-cdUeko)
 * [Sidebar: Importing from a Twitter Feed](https://www.youtube.com/watch?v=wlNPns5hc6M)
 
-####[[]](#toc) <a name='w4'>WEEK 4-PERFORMANCE</a>
+#### [[]](#toc) <a name='w4'>WEEK 4-PERFORMANCE</a>
 
 * [Introduction to Week 4](https://www.youtube.com/watch?v=8qBXI8ggV88)
 * [Indexes](https://www.youtube.com/watch?v=kkIAqyqYOCc)
@@ -138,7 +138,7 @@ Copyright of these videos belong to MongoDB, Inc.
 * [Mongostat](https://www.youtube.com/watch?v=eLWQO_AJmrI)
 * [Sharding Overview](https://www.youtube.com/watch?v=BDxT-VZdYqc)
 
-####[[]](#toc) <a name='w5'>WEEK 5-AGGREGATION FRAMEWORK</a>
+#### [[]](#toc) <a name='w5'>WEEK 5-AGGREGATION FRAMEWORK</a>
 
 * [Introduction to Week 5](https://www.youtube.com/watch?v=BDxT-VZdYqc)
 * [Simple Aggregation Example](https://www.youtube.com/watch?v=DQBXCsjeO5c)
@@ -165,7 +165,7 @@ Copyright of these videos belong to MongoDB, Inc.
 * [Some Common SQL examples](https://www.youtube.com/watch?v=ep2gLSR6C0U)
 * [Limitations of the Aggregation Framwork](https://www.youtube.com/watch?v=U_gRSxEq3c0)
 
-####[[]](#toc) <a name='w6'>WEEK 6-APPLICATION ENGINEERING</a>
+#### [[]](#toc) <a name='w6'>WEEK 6-APPLICATION ENGINEERING</a>
 
 * [Introduction to Week 6](https://www.youtube.com/watch?v=3zcbhNHebAc)
 * [Introduction to Replication](https://www.youtube.com/watch?v=f1WTYGORU3w) 
@@ -185,14 +185,14 @@ Copyright of these videos belong to MongoDB, Inc.
 * [Sharding + Replication](https://www.youtube.com/watch?v=-rtYrLb1bgY) 
 * [Choosing a Shard Key](https://www.youtube.com/watch?v=8q2GB3QSBSI) 
 
-####[[]](#toc) <a name='w7'>WEEK 7-CASE STUDIES</a>
+#### [[]](#toc) <a name='w7'>WEEK 7-CASE STUDIES</a>
 
 * [Introduction to Week 7](https://www.youtube.com/watch?v=adRyiudsgv0)
 * [Interview with Jon Hoffman, foursquare](https://www.youtube.com/watch?v=GBauy0o-Wzs)
 * [Interview with Ryan Bubinski, Codecademy](https://www.youtube.com/watch?v=RkPmVQNesZA)
 
 
-##M102: MongoDB for DBAs
+## M102: MongoDB for DBAs
 
 ### <a name='toc'>Syllabus</a>
 
@@ -204,7 +204,7 @@ Copyright of these videos belong to MongoDB, Inc.
 - [ ] [WEEK 6-Scalability](#w16)
 - [ ] [WEEK 7-Backup and Recovery](#w17)
 
-####[[]](#toc) <a name='w11'>WEEK 1-INTRODUCTION</a>
+#### [[]](#toc) <a name='w11'>WEEK 1-INTRODUCTION</a>
 
 * [Welcome to M102](https://youtu.be/l5_MqHaECLU)
 * [Introduction to the Course](https://youtu.be/_E6JcwWce-w)
@@ -232,7 +232,7 @@ Copyright of these videos belong to MongoDB, Inc.
 * [Query Languages:Cursors](https://youtu.be/DRs4_hBpPlI)
 * [Deep Dive into the Course Going Forward](https://youtu.be/w2u-AKZEh_Q)  
 
-####[[]](#toc) <a name='w12'>WEEK 2-CRUD and Administrative Commands</a>
+#### [[]](#toc) <a name='w12'>WEEK 2-CRUD and Administrative Commands</a>
 
 * [Welcome to Week 2](https://youtu.be/J_LLMqmPVxA)
 * [Introduction to Seek 2](https://youtu.be/7aONHmqz0iI)
@@ -253,7 +253,7 @@ Copyright of these videos belong to MongoDB, Inc.
 * [collection.stats() & collection.drop()](https://youtu.be/EJk9joNfnoA)
 * [Review of Commands](https://youtu.be/Q8v1J7wovl4)
 
-####[[]](#toc) <a name='w13'>WEEK 3-Performance</a>
+#### [[]](#toc) <a name='w13'>WEEK 3-Performance</a>
 
 * [Welcome to Week 3](https://youtu.be/yeb0nSDiozQ)
 * [Storage Engine:Introduction](https://youtu.be/yV8qgeXvAyI)
@@ -276,7 +276,7 @@ Copyright of these videos belong to MongoDB, Inc.
 * [The Profiler](https://youtu.be/MzLmI8FNB94)
 * [mongostat and mongotop](https://youtu.be/fEgl1DT_lDA)
 
-####[[]](#toc) <a name='w14'>WEEK 4-Replication</a>
+#### [[]](#toc) <a name='w14'>WEEK 4-Replication</a>
 
 * [Welcome to Week 4](https://youtu.be/oK8Cb7XsAWU)
 * [Replication Overview](https://youtu.be/eNFWxRFIbcI)
@@ -294,7 +294,7 @@ Copyright of these videos belong to MongoDB, Inc.
 * [Read Preference](https://youtu.be/I62q4cyeSyc) 
 * [Read Preference Options](https://youtu.be/jCEZvexlpj4)
  
-####[[]](#toc) <a name='w15'>WEEK 5-Replication Part 2</a>
+#### [[]](#toc) <a name='w15'>WEEK 5-Replication Part 2</a>
 
 * [Week 5 Introduction](https://youtu.be/cs-2q4Gbsbk)
 * [Reconfiguring a Replica Set](https://youtu.be/kkqX5Hwah6Q) 
@@ -312,7 +312,7 @@ Copyright of these videos belong to MongoDB, Inc.
 * [Replica Sets in Multiple Datacenters](https://youtu.be/YEeudsS3lqg)
 * [Replica Sets and Storage Engine Considerations](https://youtu.be/e3SeZRdrAsE)
 
-####[[]](#toc) <a name='w16'>WEEK 6-Scalability</a>
+#### [[]](#toc) <a name='w16'>WEEK 6-Scalability</a>
 
 * [Introduction to Week6](https://youtu.be/gaVzKkKsIxI)
 * [Sharding & Data Distribution](https://youtu.be/xvWzS9j7IIY)
@@ -331,7 +331,7 @@ Copyright of these videos belong to MongoDB, Inc.
 * [Bulk Inserts and Presplitting](https://youtu.be/rYGOF-MjRQU)
 * [Further Tips and Best Practices](https://youtu.be/9QXa9Uz8bjc)
 
-####[[]](#toc) <a name='w17'>WEEK 7-Backup and Recovery</a>
+#### [[]](#toc) <a name='w17'>WEEK 7-Backup and Recovery</a>
 
 * [Introduction to Week7](https://youtu.be/1n0IDMAWR0Y)
 * [Overview of Security](https://youtu.be/TOtt-8SRlA4)
